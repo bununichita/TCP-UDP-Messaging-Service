@@ -41,15 +41,6 @@ The program is designed to manage potential runtime errors gracefully, ensuring 
 
 ---
 
-## Future Improvements
-
-The project can be extended with additional features, such as:
-- **Enhanced Message Filtering:** Allowing clients to filter messages based on custom criteria.
-- **Persistent Connections:** Implementing mechanisms for reconnection and message replay in case of disconnections.
-- **Security Enhancements:** Adding encryption and authentication to ensure secure communication.
-
----
-
 ## How to Run
 
 1. **Build the project** using the provided Makefile:
