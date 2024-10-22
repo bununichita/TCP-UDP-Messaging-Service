@@ -52,10 +52,9 @@ The project can be extended with additional features, such as:
 
 ## How to Run
 
-1. **Compile** the source code using a C++ compiler:
+1. **Build the project** using the provided Makefile:
    ```bash
-   g++ -o subscriber subscriber.cpp
-   g++ -o server server.cpp
+   make
    ```
 
 2. **Start the server**:
@@ -66,6 +65,11 @@ The project can be extended with additional features, such as:
 3. **Run the client**:
    ```bash
    ./subscriber
+   ```
+
+4. **Clean up the build files**:
+   ```bash
+   make clean
    ```
 
 ---
