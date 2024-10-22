@@ -64,5 +64,3 @@ The program is designed to manage potential runtime errors gracefully, ensuring 
    ```
 
 ---
-
-Feel free to reach out for any questions or improvements!
