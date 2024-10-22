@@ -1,7 +1,7 @@
 
 # TCP and UDP Client-Server Application for Message Management
 
-### Author: Nichita-Adrian Bunu, 323CA  
+### Author: Nichita-Adrian Bunu, 323CA Facultatea de Automatica si Calculatoare UNSTPB 
 **Contact:** [nichita_adrian.bunu@stud.acs.upb.ro](mailto:nichita_adrian.bunu@stud.acs.upb.ro)
 
 ---
