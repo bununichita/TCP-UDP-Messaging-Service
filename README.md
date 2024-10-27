@@ -50,7 +50,7 @@ The program is designed to manage potential runtime errors gracefully, ensuring 
 
 2. **Start the server**:
    ```bash
-   ./server
+   make run_vma
    ```
 
 3. **Run the client**:
